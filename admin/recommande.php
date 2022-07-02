@@ -48,7 +48,7 @@ use LDAP\Result;
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Bonjour <?php echo $_SESSION["name"]?></a> 
+                <a class="navbar-brand" href="#">Bonjour <?php echo $_SESSION["name"]?></a> 
             </div>
   <div style="color: white;
 padding: 15px 50px 5px 50px;
